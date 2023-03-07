@@ -1,6 +1,6 @@
 # Flask_Basics
 
-This is a repo with the basics to build a simple web with flask
+### This is a repo with the basics to build a simple web with flask
 
 ## About flask
 
@@ -8,4 +8,4 @@ Flask is a web application framework written in Python that lets you develop web
 
 ## Install flask
 
-'pip install flask'
+`pip install flask`
